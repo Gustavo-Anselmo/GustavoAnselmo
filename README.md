@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gustavo-anselmo-613779225/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-anselmo-613779225/" />
   </a>
 </div>
 
