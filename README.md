@@ -1,3 +1,6 @@
+<img align="right" height="590" src="https://raw.githubusercontent.com/gist/Gustavo-Anselmo/4e3bf383c8413f32b0a56c1c933543d3/raw/ffb4d5171bd41f9fc88f4910211d1898f82e6e76/githubcard.svg">
+
+
 ## Tá na hora de codar
 
 <div align="left">
@@ -25,16 +28,11 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="mailto:gugaasp18@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gustavo-anselmo-613779225/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </div>
 
-<img align="center" height="590" src="https://raw.githubusercontent.com/gist/Gustavo-Anselmo/4e3bf383c8413f32b0a56c1c933543d3/raw/ffb4d5171bd41f9fc88f4910211d1898f82e6e76/githubcard.svg">
 
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
